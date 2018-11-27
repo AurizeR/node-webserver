@@ -68,9 +68,5 @@ app.listen(port, () => {
     console.log(`Server is up on port ${port}`);
 });
 
-// add new projects page to website - later link to github later
-// create /projects + view file
-// "portfolio page here"
-// new link for projects page via header
-// git push heroku
+
 
